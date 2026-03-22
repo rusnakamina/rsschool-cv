@@ -19,7 +19,7 @@ Looking for an opportunity to grow as a developer and contribute to real-world p
 ## 🛠️ Skills
 
 - **Programming Languages:** JavaScript, HTML5, CSS3  
-- **Frameworks & Libraries:** React  
+- **Frameworks & Libraries:** React, Vue  
 - **Version Control:** Git, GitHub  
 - **Tools:** VS Code, Chrome DevTools, Figma  
 - **Methodologies:** Agile, Scrum basics  
